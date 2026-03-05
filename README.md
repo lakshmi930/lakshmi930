@@ -25,9 +25,17 @@ class LakshmiN:
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=6366f1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javaScript&logoColor=6366f1)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=6366f1)
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=6366f1)
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=java&logoColor=6366f1)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=SQL&logoColor=6366f1)
+
+**AI / ML**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=6366f1)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=6366f1)
 ![Keras](https://img.shields.io/badge/Keras-0f172a?style=for-the-badge&logo=keras&logoColor=6366f1)
@@ -41,21 +49,24 @@ class LakshmiN:
 
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=6366f1)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=6366f1)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=6366f1)
 ![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=6366f1)
 ![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=6366f1)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=6366f1)
 ![MUI](https://img.shields.io/badge/Material_UI-0f172a?style=for-the-badge&logo=mui&logoColor=6366f1)
-![Storybook](https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=6366f1)
+<!-- ![Storybook](https://img.shields.io/badge/Storybook-0f172a?style=for-the-badge&logo=storybook&logoColor=6366f1) -->
+![astro](https://img.shields.io/badge/astro-0f172a?style=for-the-badge&logo=astro&logoColor=6366f1)
+![styledcomponents](https://img.shields.io/badge/styled_components-0f172a?style=for-the-badge&logo=styledcomponents&logoColor=6366f1)
 
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=6366f1)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=6366f1)
 ![NestJS](https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=6366f1)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=6366f1)
 ![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=6366f1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=6366f1)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0f172a?style=for-the-badge&logo=amazondynamodb&logoColor=6366f1)
+![algolia](https://img.shields.io/badge/algolia-0f172a?style=for-the-badge&logo=algolia&logoColor=6366f1)
 
 **DevOps & Observability**
 
@@ -66,6 +77,10 @@ class LakshmiN:
 ![Sentry](https://img.shields.io/badge/Sentry-0f172a?style=for-the-badge&logo=sentry&logoColor=6366f1)
 ![New Relic](https://img.shields.io/badge/New_Relic-0f172a?style=for-the-badge&logo=newrelic&logoColor=6366f1)
 ![Jest](https://img.shields.io/badge/Jest-0f172a?style=for-the-badge&logo=jest&logoColor=6366f1)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-0f172a?style=for-the-badge&logo=lighthouse&logoColor=6366f1)
+![Grafana](https://img.shields.io/badge/Grafana-0f172a?style=for-the-badge&logo=grafana&logoColor=6366f1)
+![nginx](https://img.shields.io/badge/nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=6366f1)
+<!-- npm, yarn, Terraform, Ansible, Vercel, webpack,  -->
 
 ---
 
@@ -84,7 +99,8 @@ class LakshmiN:
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshmi930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&ring_color=6366f1" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshmi930&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0&ring_color=6366f1" />
 
 </div>
 
